@@ -1,0 +1,89 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+#page-inner {
+    padding: 20px;
+}
+
+h1.page-header {
+    color: #007bff;
+    margin-bottom: 30px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #dee2e6;
+    padding: 12px;
+    text-align: left;
+}
+
+tr.gradeC {
+    background-color: #f2f2f2;
+}
+
+tr.gradeU {
+    background-color: #e6e6e6;
+}
+
+.btn {
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #007bff;
+}
+
+.btn-success {
+    background-color: #28a745;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+}
+
+.btn-container {
+    margin-top: 20px;
+}
+
+#dataTables-example {
+width: 100%;
+margin: 1em 0;
+border-collapse: collapse;
+border-spacing: 0;
+}
+
+
+#dataTables-example th {
+background-color: #f2f2f2;
+font-weight: bold;
+padding: 8px;
+text-align: left;
+}
+
+#dataTables-example td {
+padding: 8px;
+border-bottom: 1px solid #ddd;
+}
+
+#dataTables-example tbody tr.gradeC {
+background-color: #f9f9f9;
+}
+
+#dataTables-example tbody tr.gradeU {
+background-color: #ffffff;
+}
+
+#dataTables-example tbody tr:hover {
+background-color: #d4ebf9;
+}
