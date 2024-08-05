@@ -580,109 +580,7 @@ include('db.php');
 	
 	 <!--// rooms & rates -->
   <!-- visitors -->
-	<div class="w3l-visitors-agile" >
-		<div class="container">
-                 <h3 class="title-w3-agileits title-black-wthree">Những gì du khách khác trải nghiệm</h3> 
-		</div>
-		<div class="w3layouts_work_grids">
-			<section class="slider">
-				<div class="flexslider">
-					<ul class="slides">
-						<li>
-							<div class="w3layouts_work_grid_left">
-								<img style="height: 500px;width: 750px;" src="images/hai.jpg" alt=" " class="img-responsive" />
-								<div class="w3layouts_work_grid_left_pos">
-								
-								</div>
-							</div>
-							<div class="w3layouts_work_grid_right">
-								<h4>
-								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
-								Đáng để trở lại
-								</h4>
-								<p>Khách sạn với không gian lịch sự, trang trọng, dịch vụ chu đáo tận tình.
-								 Sự chăm sóc khách hàng của nhân viên, đặc biệt sự giới thiệu, hướng dẫn của nữa nv clara, nv lễ tân rất gần gũi và thân thiện, mang đến một trải nghiệm tuyệt vời . </p>
-								<h5>Hải Hải</h5>
-								<p>Quê quán : Ninh Bình</p>
-							</div>
-							<div class="clearfix"> </div>
-						</li>
-						<li>
-							<div class="w3layouts_work_grid_left">
-								<img src="images/hai.jpg" alt=" " class="img-responsive" />
-								<div class="w3layouts_work_grid_left_pos">
-									
-								</div>
-							</div>
-							<div class="w3layouts_work_grid_right">
-								<h4>
-								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-starWorth to come a" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star-o" aria-hidden="true"></i>
-								Đáng để trở lại
-
-								</h4>
-								<p>Tôi cùng bạn bè trải nghiệm chuyến đi thật đáng nhớ , khách sạn là điểm dừng chân ưng ý nhất , sạch tiện nghi cách phục vụ thật chu đáo. </p>
-								<h5>Tiến tiến</h5>
-								<p>Quê quán:Ninh Bình</p>
-							</div>
-							<div class="clearfix"> </div>
-						</li>
-						<li>
-							<div class="w3layouts_work_grid_left">
-								<img src="images/hai.jpg" alt=" " class="img-responsive" />
-								<div class="w3layouts_work_grid_left_pos">
-									
-								</div>
-							</div>
-							<div class="w3layouts_work_grid_right">
-								<h4>
-								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star-o" aria-hidden="true"></i>
-								Đáng để trở lại
-								</h4>
-								<p>Khách sạn theo phong cách hoàng gia nên có nhiều góc sống ảo "soang choảnh".Ngồi chờ xe ở sảnh 1 chút là các bạn nhân viên lấy nước chanh cho khách uống liền❤️. Riêng có toilet trong phòng nước hơi nhẹ, mỗi lần xả yếu quá không sạch được khi dùng 2 lần liên tục, có máy pha cà phê nữa mà máy phòng mình bị rỉ nước phần bình chứa nên chảy hết ra sàn, các bạn nhân viên có đề nghị thay mới , đáp ứng đầy đủ kịp thời mọi nhu cầu của khách. Hồ bơi cũng siêu đẹp. Nội thất phòng hiện đại, siêu xịn xò và thêm view biển chill chill 😆😆😆 </p>
-								<h5> Phương</h5>
-								<p>Quê quán :Hà Nội</p>
-							</div>
-							<div class="clearfix"> </div>
-						</li>
-						<li>
-							<div class="w3layouts_work_grid_left">
-								<img src="images/hai.jpg" alt=" " class="img-responsive" />
-								<div class="w3layouts_work_grid_left_pos">
-									
-								</div>
-							</div>
-							<div class="w3layouts_work_grid_right">
-								<h4>
-								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star-o" aria-hidden="true"></i>
-								<i class="fa fa-star-o" aria-hidden="true"></i>
-								Đáng để trở lại
-								</h4>
-								<p>Hồ bơi trên tầng mái khá đẹp nhưng rất nhỏ. Nhân viên rất thân thiện và sẵn lòng giúp đỡ.  </p>
-								<h5>Tài Ba</h5>
-								<p>Quê quán:Nam Định</p>
-							</div>
-							<div class="clearfix"> </div>
-						</li>
-					</ul>
-				</div>
-			</section>
-		</div>	
-	</div>
+	
   <!-- visitors -->
 <!-- contact -->
 <section class="contact-w3ls" id="contact">
@@ -753,7 +651,7 @@ include('db.php');
 </section>
 <!-- /contact -->
 			<div class="copy">
-		        <p>© 2024 SUNRISE . Thiết kế bởi <a href="index.php">PHẠM NGỌC HẢI</a> </p>
+		        <p>© 2024 SUNRISE . Thiết kế bởi <a href="index.php">BÙI THỊ HUYÊN TRANG</a> </p>
 		    </div>
 <!--/footer -->
 <!-- js -->
